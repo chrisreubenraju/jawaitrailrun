@@ -1,0 +1,11 @@
+JAWAI TRAIL RUN — IMAGE CREDITS
+
+Home banner images (Wikimedia Commons):
+1. JAWAI BANDH SUNSET.jpg — Koushik Ranjan Das — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:JAWAI_BANDH_SUNSET.jpg
+2. JAWAI BANDH LAKE.jpg — Koushik Ranjan Das — freely licensed on Wikimedia Commons
+   https://commons.wikimedia.org/wiki/File:JAWAI_BANDH_LAKE.jpg
+3. This is jawai bandh in Rajasthan. Beautiful palace for village and leopard safari.jpg — Explorebag — CC0 1.0 / Public Domain Dedication
+   https://commons.wikimedia.org/wiki/File:This_is_jawai_bandh_in_Rajasthan._Beautiful_palace_for_village_and_leopard_safari.jpg
+
+Other supplied/local project artwork remains in assets/.
